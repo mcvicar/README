@@ -27,6 +27,7 @@ When it comes to tech strategy, I _love_ the framework from [Good Strategy/Bad S
 
 ## Process
 Are we as a team followiing the [agile manifesto](https://agilemanifesto.org/)? Cool. Everything else is local company culture and scaffolding. 
+Documentation is pretty important, particularly if we're in a hybrid or remote environment. We should ideally be using something like [ADRs](https://adr.github.io/). 
 
 ## Team metrics
 SLOS, SLI, SLAs - awesome if we have them. If not, lets figure out what ones make sense for us, our servies, and the business we're supporting. We should know what impacts our services have upstream and downstream, and be communitating well about those.
